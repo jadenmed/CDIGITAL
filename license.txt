@@ -1,0 +1,121 @@
+Copyright (c) 2026 Ocean Development LLC. All rights reserved.
+
+OCEAN DEVELOPMENT SOURCE AVAILABLE LICENSE v1.0
+
+This license governs use of the accompanying software, design files, code,
+and any associated assets (collectively, the "Work"). By accessing, viewing,
+downloading, or using the Work in any way, you agree to the terms below.
+
+-------------------------------------------------------------------------------
+
+1. PERMITTED USE
+
+   You may:
+
+   a. View and study the Work for personal, educational, or non-commercial
+      reference purposes.
+
+   b. Fork the repository on GitHub solely for the purpose of submitting
+      pull requests or contributing back to the original repository.
+
+   c. Share links to the original repository without modification.
+
+-------------------------------------------------------------------------------
+
+2. RESTRICTIONS
+
+   You may NOT, without prior written permission from Ocean Development LLC:
+
+   a. Use the Work, in whole or in part, for any commercial purpose,
+      including but not limited to selling, licensing, sublicensing,
+      offering as a service, or incorporating into a commercial product.
+
+   b. Reproduce, copy, replicate, reverse-engineer, or rebuild the Work
+      or any substantial portion of it, whether in the same form or in a
+      modified or derivative form.
+
+   c. Remove, obscure, or alter any copyright, trademark, or attribution
+      notices contained in the Work.
+
+   d. Redistribute the Work or any derivative of it, with or without
+      modification, under any other license.
+
+   e. Use the Work as a template, starting point, or reference for client
+      work, freelance projects, or any work produced on behalf of a third
+      party for compensation.
+
+   f. Host, publish, or deploy the Work or any derivative in a production
+      environment without a valid license agreement from Ocean Development LLC.
+
+-------------------------------------------------------------------------------
+
+3. OWNERSHIP
+
+   Ocean Development LLC retains full ownership of all intellectual property
+   rights in the Work, including but not limited to copyright, trade dress,
+   and design rights. Nothing in this license transfers or assigns any
+   ownership rights to you.
+
+   Accessing or downloading the Work does not grant you any license beyond
+   what is explicitly stated in Section 1 above.
+
+-------------------------------------------------------------------------------
+
+4. NO IMPLIED LICENSE
+
+   No license is granted by implication, estoppel, or otherwise. Any use not
+   expressly permitted by this license is prohibited and constitutes
+   infringement of Ocean Development LLC's intellectual property rights.
+
+-------------------------------------------------------------------------------
+
+5. ATTRIBUTION
+
+   Any permitted use that results in public-facing output must include clear
+   and visible attribution to Ocean Development LLC, including a link to
+   https://oceandev.net, unless Ocean Development LLC expressly waives this
+   requirement in writing.
+
+-------------------------------------------------------------------------------
+
+6. TERMINATION
+
+   Any rights granted under Section 1 terminate automatically and immediately
+   if you violate any term of this license. Upon termination, you must
+   destroy all copies of the Work in your possession.
+
+-------------------------------------------------------------------------------
+
+7. DISCLAIMER OF WARRANTIES
+
+   THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL
+   OCEAN DEVELOPMENT LLC BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY
+   ARISING FROM YOUR USE OF OR INABILITY TO USE THE WORK.
+
+-------------------------------------------------------------------------------
+
+8. GOVERNING LAW
+
+   This license shall be governed by and construed in accordance with the
+   laws of the State of Florida, United States, without regard to its
+   conflict of law provisions. Any disputes arising under this license shall
+   be subject to the exclusive jurisdiction of the courts located in
+   Miami-Dade County, Florida.
+
+-------------------------------------------------------------------------------
+
+9. CONTACT
+
+   To request a commercial license, report a violation, or obtain written
+   permission for any use not covered by Section 1, contact:
+
+   Ocean Development LLC
+   Miami, Florida, United States
+   hello@oceandev.net
+   https://oceandev.net
+
+-------------------------------------------------------------------------------
+
+All rights not expressly granted herein are reserved by Ocean Development LLC.
